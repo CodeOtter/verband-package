@@ -1,0 +1,7 @@
+{
+    "name": "verband/package",
+    "description": "The standard Verband package containing non-framework functionality.",
+    "require": {
+        "verband/application": "dev-master"
+    }
+}
