@@ -5,6 +5,6 @@
     "require": {
     },
     "extra": {
-        "destination": "Packages/Verband/Core"
+        "package-path": "Packages/Verband/Core"
     }
 }
