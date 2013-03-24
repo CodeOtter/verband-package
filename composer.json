@@ -1,5 +1,5 @@
 {
-    "name": "Verband/Package",
+    "name": "verband/package",
     "type": "verband-component",
     "description": "The standard Verband package containing non-framework functionality.",
     "require": {
