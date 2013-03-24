@@ -1,10 +1,10 @@
 {
     "name": "Verband/Package",
-    "type": "verband-package",
+    "type": "verband-component",
     "description": "The standard Verband package containing non-framework functionality.",
     "require": {
     },
     "extra": {
-        "package-path": "Packages/Verband/Core"
+        "component-path": "Packages/Verband/Core"
     }
 }
